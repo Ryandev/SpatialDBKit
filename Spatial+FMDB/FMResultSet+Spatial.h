@@ -7,7 +7,7 @@
 */
 
 
-#import "FMResultSet.h"
+#import <FMDB/FMResultSet.h>
 
 @interface FMResultSet (Spatial)
 
